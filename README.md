@@ -13,13 +13,13 @@
 ## 23.4.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich eine HTML-Seite und eine CSS-Seite erstellt und eine Erweiterung für Visual Studio Code heruntergeladen, mit der ich meine Website sehen kann ohne davor jeweils die HTML- und CSS-Seite zu speichern und meine Website im Browser zu aktualisieren. Auf [W3School](https://w3schools.com) habe ich mit dem CSS-Tutorial angefangen und habe auch meine erste Website mithilfe von Github Pages hochgeladen. (59 Wörter)
 
-## 30.4.2024
+## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
-
-✍️ Heute habe ich... (50-100 Wörter)
+- [ ] Beispiele von Hobby-Websites im Internet ansehen
+- [ ] Layout erstellen
+- [ ] Navigationsleiste erstellen und Webpages der Website verlinken
+- [ ] Buttons einfügen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
