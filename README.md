@@ -17,22 +17,25 @@ Heute habe ich eine HTML-Seite und eine CSS-Seite erstellt und eine Erweiterung 
 
 ## 9.5.2024
 
-- [] Beispiele von Hobby-Websites im Internet ansehen
+- [x] Beispiele von Hobby-Websites im Internet ansehen
 - [] Layout erstellen
-- [] Navigationsleiste erstellen und Webpages der Website verlinken
+- [x] Navigationsleiste erstellen und Webpages der Website verlinken
 - [] Buttons einfügen
 
+
 ✍️ Heute habe ich... (50-100 Wörter)
-Heute habe ich mir angeschaut wie Websiten im Internet aufgebaut sind und habe mehrere Möglichkeiten für das Layout kennengelernt. Ich habe viel Zeit fürs Ausprobieren von verschiedenen Layouts verwendet. Ich habe nach Möglichkeiten gesucht die Navigationsleiste zu gestalten.
+Heute habe ich mir angeschaut wie Websiten im Internet aufgebaut sind und habe mehrere Möglichkeiten für das Layout kennengelernt. Ich habe viel Zeit fürs Ausprobieren von verschiedenen Layouts verwendet und konnte mich noch nicht vollständig für eins entscheiden. Ich bin jetzt mit dem Gestalten der Navigationszeile beschäftigt.
 
 Als letztes habe ich noch einen Button eingefügt, allerdings bin ich nicht dazu gekommen ihn zu designen.
-Allgemein habe ich viel Zeit auf W3Schools.com verwendet um über CSS-Elemente zu lernen.
+Allgemein habe ich viel Zeit auf W3Schools.com verwendet um über CSS-Elemente zu lernen. (76 Wörter)
 
 ## 3. Sitzung
 
-- [] Beispiele von Hobby-Websites im Internet ansehen
-- [] Layout erstellen
-- [] Navigationsleiste erstellen und Webpages der Website verlinken
-- [] Buttons einfügen
+- [] mich für ein Layout für die Startseite entscheiden
+- [] 
+- []
+- [] 
   
 ✍️ Heute habe ich... (50-100 Wörter)
+
+
