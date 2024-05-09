@@ -15,11 +15,24 @@
 ✍️ Heute habe ich... (50-100 Wörter)
 Heute habe ich eine HTML-Seite und eine CSS-Seite erstellt und eine Erweiterung für Visual Studio Code heruntergeladen, mit der ich meine Website sehen kann ohne davor jeweils die HTML- und CSS-Seite zu speichern und meine Website im Browser zu aktualisieren. Auf [W3School](https://w3schools.com) habe ich mit dem CSS-Tutorial angefangen und habe auch meine erste Website mithilfe von Github Pages hochgeladen. (59 Wörter)
 
-## 30.4.2024
+## 9.5.2024
 
-- [ ] Beispiele von Hobby-Websites im Internet ansehen
-- [ ] Layout erstellen
-- [ ] Navigationsleiste erstellen und Webpages der Website verlinken
-- [ ] Buttons einfügen
+- [] Beispiele von Hobby-Websites im Internet ansehen
+- [] Layout erstellen
+- [] Navigationsleiste erstellen und Webpages der Website verlinken
+- [] Buttons einfügen
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mir angeschaut wie Websiten im Internet aufgebaut sind und habe mehrere Möglichkeiten für das Layout kennengelernt. Ich habe viel Zeit fürs Ausprobieren von verschiedenen Layouts verwendet. Ich habe nach Möglichkeiten gesucht die Navigationsleiste zu gestalten.
+
+Als letztes habe ich noch einen Button eingefügt, allerdings bin ich nicht dazu gekommen ihn zu designen.
+Allgemein habe ich viel Zeit auf W3Schools.com verwendet um über CSS-Elemente zu lernen.
+
+## 3. Sitzung
+
+- [] Beispiele von Hobby-Websites im Internet ansehen
+- [] Layout erstellen
+- [] Navigationsleiste erstellen und Webpages der Website verlinken
+- [] Buttons einfügen
+  
+✍️ Heute habe ich... (50-100 Wörter)
