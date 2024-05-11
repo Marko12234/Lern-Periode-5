@@ -31,11 +31,10 @@ Allgemein habe ich viel Zeit auf W3Schools.com verwendet um über CSS-Elemente z
 
 ## 3. Sitzung
 
-- [] mich für ein Layout für die Startseite entscheiden
-- [] 
-- []
-- [] 
-  
+- [] Layout für die Startseite erstellen
+- [] Gestalten der Navigationszeile
+- [] Menü für Navigationszeileneintrag erstellen, mit dem man zu Überschriften springen kann
+- [] Footer gestalten
 ✍️ Heute habe ich... (50-100 Wörter)
 
 
