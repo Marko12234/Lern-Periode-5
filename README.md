@@ -29,12 +29,16 @@ Heute habe ich mir angeschaut wie Websiten im Internet aufgebaut sind und habe m
 Als letztes habe ich noch einen Button eingefügt, allerdings bin ich nicht dazu gekommen ihn zu designen.
 Allgemein habe ich viel Zeit auf W3Schools.com verwendet um über CSS-Elemente zu lernen. (76 Wörter)
 
-## 3. Sitzung
+## 13.5.24
 
 - [] Layout für die Startseite erstellen
 - [] Gestalten der Navigationszeile
 - [] Menü für Navigationszeileneintrag erstellen, mit dem man zu Überschriften springen kann
 - [] Footer gestalten
 ✍️ Heute habe ich... (50-100 Wörter)
-
-
+Heute bin ich nicht sehr weit gekommen da ich mich nicht so gut entscheiden konnte wie das Layout für die Startseite aussehen soll da ich mich nicht im Vorraus genau entscheiden konnte was für eine Website ich machen will. Ich habe mich für ein einfaches Layout für die Startseite entschieden und bin fast fertig. Ich habe mich informiert wie man Objekte zentriert und habe mich etwas mit Javascript befasst. (69 Wörter)
+## 20.5.24
+- [] Layout für Startseite fertig erstellen.
+- [] Hover Effekte für Buttons und Hyperlinks hinzufügen
+- [] Audiodatei einfügen
+- [] Suchfunktion für Songs erstellen
