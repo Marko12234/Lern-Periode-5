@@ -1,5 +1,19 @@
 
-.h1 {color:white; background-color: grey;}
+h1 {color:white; background-color: grey;}
+#welcometext {text-align: center;}
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+#buttonHomepage {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 10px;
+    width: 30%;
+padding: 7vb;
+}
+
 #navigationbarright{float: right; }
 ul{list-style-type: none;}
-.footer {background-color: black}
